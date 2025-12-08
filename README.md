@@ -1,11 +1,12 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Irfan</h1>
+<h1 align="center">Hi 👋, I'm Irfan Shaikh</h1>
 <h3 align="center">I Build Interactive Apps with React ⚛️ | Flutter 📱 | Django 🐍</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F5FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+💻;Flutter+App+Developer+📱;Backend+with+Django+⚙️;AI+%26+Automation+Enthusiast+🤖;Always+Learning+Something+New+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F5FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Flutter+App+Developer+;Backend+with+Django+;AI+Automation+Enthusiast+%F0%9F%A4%96;" />
 </p>
+
 
 ---
 
@@ -21,7 +22,7 @@
 
 ## ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,django,python,js,ts,html,css,git,github,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,django,python,js,ts,html,css,git,github,tailwind" />
 </p>
 
 ---
@@ -37,14 +38,24 @@ A modern, animated, and interactive web platform built for event management and 
 ---
 
 ## 🔥 GitHub Stats (Animated)
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Irfanx3000&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Irfanx3000&theme=radical" />
+
+  <!-- GitHub Stats -->
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Irfanx3000&theme=radical&show_icons=true&count_private=true" />
+
+  <!-- Streak Stats -->
+  <img height="170" src="https://streak-stats.demolab.com/?user=Irfanx3000&theme=radical" />
+
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanx3000&layout=compact&theme=radical" />
+
+  <!-- Top Languages (Mirror endpoint → most stable) -->
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Irfanx3000&layout=compact&theme=radical" />
+
 </p>
+
 
 ---
 
