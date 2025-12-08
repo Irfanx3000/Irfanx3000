@@ -13,10 +13,10 @@
 ## 🚀 About Me  
 - 🔧 I build **cross-platform apps** using Flutter  
 - ⚛️ Passionate about **React JS** for interactive UI  
-- 🐍 Backend lover → **Django / DRF**  
+- 🐍 Backend lover → **Django**  
 - 📈 Exploring **AI agents**, automation & scalable systems  
 - 💬 Ask me about: React, Flutter, Django, UI/UX, API integrations  
-- 🎯 Goal: Create smooth, animated, real-world digital experiences  
+- 🎯 Goal: Converting ideas into reality 
 
 ---
 
