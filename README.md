@@ -44,9 +44,6 @@ A modern, animated, and interactive web platform built for event management and 
   <!-- GitHub Stats -->
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Irfanx3000&theme=radical&show_icons=true&count_private=true" />
 
-  <!-- Streak Stats -->
-  <img height="170" src="https://streak-stats.demolab.com/?user=Irfanx3000&theme=radical" />
-
 </p>
 
 <p align="center">
