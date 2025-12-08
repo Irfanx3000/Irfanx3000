@@ -46,12 +46,6 @@ A modern, animated, and interactive web platform built for event management and 
 
 </p>
 
-<p align="center">
-
-  <!-- Top Languages (Mirror endpoint → most stable) -->
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Irfanx3000&layout=compact&theme=radical" />
-
-</p>
 
 
 ---
