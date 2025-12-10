@@ -50,13 +50,6 @@ A modern, animated, and interactive web platform built for event management and 
 
 ---
 
-## 🧩 Animated Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Irfanx3000/Irfanx3000/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🛰️ Activity Graph (Animated)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfanx3000&theme=react-dark&area=true&hide_border=true" />
