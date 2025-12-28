@@ -1,4 +1,4 @@
-<!-- Header -->
+q<!-- Header -->
 <h1 align="center">Hi 👋, I'm Irfan Shaikh</h1>
 <h3 align="center">I Build Interactive Webs/Apps with React ⚛️ | Flutter 📱 | Django 🐍</h3>
 
@@ -33,7 +33,7 @@
 A modern, animated, and interactive web platform built for event management and team coordination.
 
 🔗 **Live Demo:**  
-👉 https://unstop-igniters-web.vercel.app  
+👉 https://igniters-aiktc.vercel.app  
 
 ---
 
