@@ -59,7 +59,7 @@ A modern, animated, and interactive web platform built for event management and 
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="mailto: irfanshaikhx3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 </p>
