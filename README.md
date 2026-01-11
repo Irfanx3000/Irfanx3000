@@ -1,4 +1,4 @@
-q<!-- Header -->
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Irfan Shaikh</h1>
 <h3 align="center">I Build Interactive Webs/Apps with React ⚛️ | Flutter 📱 | Django 🐍</h3>
 
