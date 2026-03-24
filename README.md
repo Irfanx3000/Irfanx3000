@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F5FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Flutter+App+Developer+;Backend+with+Django+;AI+Automation+Enthusiast+%F0%9F%A4%96;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F5FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Backend+Developer;Flutter+App+Developer+;AI+Automation+Enthusiast+%F0%9F%A4%96;" />
 </p>
 
 
