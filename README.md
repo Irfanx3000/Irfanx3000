@@ -148,8 +148,8 @@ Collection of front-end tasks completed as part of the CodSoft internship progra
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-irfanshaikhx3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanshaikhx3@gmail.com)
-//[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-//[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Irfanx3000/Portfolio__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
 
 </div>
 
