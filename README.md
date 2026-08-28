@@ -98,7 +98,7 @@ Responsive front-end web build focused on clean UI structure and layout.
 
 `HTML` `CSS`
 
-[Live Demo](https://springwala.in) · [Repository](https://github.com/Irfanx3000/Springwala)
+[Repository](https://github.com/Irfanx3000/Springwala)
 
 </td>
 <td width="50%">
@@ -120,25 +120,16 @@ Collection of front-end tasks completed as part of the CodSoft internship progra
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Irfanx3000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&icon_color=00ADB5&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanx3000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfanx3000&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Irfanx3000&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADB5&line=00ADB5&point=C9D1D9&area=true&area_color=00ADB5" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Irfanx3000&theme=tokyonight&hide_border=true&background=0D1117&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" />
 
 </div>
 
 <br/>
 
-## Contribution Grid
+## Contribution Snake
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfanx3000&theme=react-dark&hide_border=true&bg_color=0D1117&custom_title=Yearly%20Contribution%20Pattern" />
+<img src="https://raw.githubusercontent.com/Irfanx3000/Irfanx3000/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <br/>
@@ -150,7 +141,6 @@ Collection of front-end tasks completed as part of the CodSoft internship progra
 [![Gmail](https://img.shields.io/badge/Email-irfanshaikhx3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanshaikhx3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-
 </div>
 
 <br/>
@@ -158,7 +148,5 @@ Collection of front-end tasks completed as part of the CodSoft internship progra
 <div align="center">
 
 If you find my work useful, consider starring the repositories.
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
