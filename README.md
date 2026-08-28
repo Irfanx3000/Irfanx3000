@@ -98,7 +98,7 @@ Responsive front-end web build focused on clean UI structure and layout.
 
 `HTML` `CSS`
 
-[Live Demo](https://springwala.in)[Repository](https://github.com/Irfanx3000/Springwala)
+[Live Demo](https://springwala.in) · [Repository](https://github.com/Irfanx3000/Springwala)
 
 </td>
 <td width="50%">
